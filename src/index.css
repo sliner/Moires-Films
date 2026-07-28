@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Cinzel+Decorative:wght@400;700&family=Playfair+Display:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+.font-light-serif {
+  font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, Cambria, serif;
+}
+
+.font-brutal {
+  font-family: 'New Rocker', 'Metal Mania', 'UnifrakturCook', 'Pirata One', fantasy, cursive, sans-serif;
+}
+
+.font-metal {
+  font-family: 'Metal Mania', 'New Rocker', cursive;
+}
+
+.font-gothic {
+  font-family: 'UnifrakturCook', cursive;
+}
+
+.font-nosifer {
+  font-family: 'Nosifer', cursive;
+}
+
+.font-creepster {
+  font-family: 'Creepster', cursive;
+}
+
+.font-eater {
+  font-family: 'Eater', cursive;
+}
+
+.font-glitch {
+  font-family: 'Rubik Glitch', system-ui;
+}
+
+.font-pirata {
+  font-family: 'Pirata One', cursive;
+}
+
+.font-butcherman {
+  font-family: 'Butcherman', cursive;
+}
