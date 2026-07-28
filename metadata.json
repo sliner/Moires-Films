@@ -1,6 +1,0 @@
-{
-  "name": "MOIRES FILMS",
-  "description": "Minimalist official website for MOIRES FILMS.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
